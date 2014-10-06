@@ -1,0 +1,20 @@
+<project name="jturtle">
+
+	<target name="clean">
+		<delete dir="bin"/>
+	</target>
+	
+	<target name="compile">
+		<mkdir dir="bin"/>
+		<javac srcdir="src" destdir="bin" source="1.7" target="1.7"/>
+		<copy todir="bin">
+			<fileset dir="src" includes="**/*.png"/>
+		</copy>
+	</target>
+
+	<target name="package" depends="compile">
+		<jar destfile="jturtle.jar">
+			<zipfileset dir="bin" includes="**/**"/>
+		</jar>
+	</target>
+</project>
