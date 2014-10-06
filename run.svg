@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3304"
+   sodipodi:docname="media-playback-start.svg"
+   height="48px"
+   sodipodi:version="0.32"
+   width="48px"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     showgrid="true"
+     borderopacity="1.0"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-12.508475"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata3309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="g6359"
+       transform="matrix(0 1 -1 0 47 0)"
+       style="fill:#2fd0d1;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">
+      <path
+         id="path5631"
+         sodipodi:nodetypes="cccc"
+         style="stroke-linejoin:round;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:round;stroke-width:12;fill:#2fd0d1;fill-opacity:1;stroke-opacity:1"
+         d="m7 33h34l-17-19-17 19z" />
+      <path
+         id="path4903"
+         sodipodi:nodetypes="cccc"
+         style="stroke-linejoin:round;fill-rule:evenodd;stroke:#ffffff;stroke-linecap:round;stroke-width:4;fill:#2fd0d1;fill-opacity:1;stroke-opacity:1"
+         d="m7 33h34l-17-19-17 19z" />
+    </g>
+  </g>
+</svg>

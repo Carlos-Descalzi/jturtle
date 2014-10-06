@@ -1,0 +1,17 @@
+to square :l
+	repeat 4 [ forward :l , left 90 ]
+end
+
+clear
+home
+square 100
+home
+square 110
+home
+square 120
+home
+square 130
+home
+square 140
+home
+square 150

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   xml:space="preserve"
+   height="48px"
+   width="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="document-new.svg"><defs
+   id="defs12" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="13.906433"
+   inkscape:cx="5.2972241"
+   inkscape:cy="22.587472"
+   inkscape:window-x="0"
+   inkscape:window-y="31"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" /><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Document new</dc:title><dc:creator><cc:Agent><dc:title>Luca Ferretti &lt;elle.uca@libero.it&gt;</dc:title></cc:Agent></dc:creator><cc:license
+         rdf:resource="http://creativecommons.org/licenses/LGPL/2.1/" /><dc:subject><rdf:Bag><rdf:li>document new</rdf:li><rdf:li>document add</rdf:li></rdf:Bag></dc:subject><dc:description>A paper sheet with a + sign</dc:description></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/licenses/LGPL/2.1/"><cc:permits
+         rdf:resource="http://web.resource.org/cc/Reproduction" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/Distribution" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/Notice" /><cc:permits
+         rdf:resource="http://web.resource.org/cc/DerivativeWorks" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/ShareAlike" /><cc:requires
+         rdf:resource="http://web.resource.org/cc/SourceCode" /></cc:License></rdf:RDF></metadata>
+	<rect
+   id="rect3319"
+   style="fill:none"
+   height="48"
+   width="48"
+   y="0"
+   x="0" /><path
+   id="path4775"
+   style="stroke-linejoin:round;stroke:#fff;stroke-width:12;fill:#fff"
+   d="m39 41h-30v-35h17l13 14v21z" /><path
+   id="path7"
+   style="stroke-linejoin:round;stroke:#ffffff;stroke-width:4;stroke-opacity:1;fill:#2fd0d1;fill-opacity:1"
+   d="m39 41h-30v-35h17l13 14v21z" /><path
+   id="path9"
+   style="fill:#ffffff;fill-opacity:0"
+   d="m36.991 20l0.006 19.004-25.997-0.004 0.017-30.982 13.952 0.0159 12.022 11.966z" />
+<path
+   id="path1309"
+   style="stroke:#ffffff;stroke-width:4;fill:none;stroke-opacity:1"
+   d="m23 16v16" /><path
+   id="path2184"
+   style="stroke:#ffffff;stroke-width:4;fill:none;stroke-opacity:1"
+   d="m31 24h-16" /></svg>
